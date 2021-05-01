@@ -1,0 +1,5 @@
+br\org\catolicasc\interfaces\folder\RetanguloMovel.class
+br\org\catolicasc\interfaces\folder\CirculoMovel.class
+br\org\catolicasc\interfaces\folder\FigurasMovelTeste.class
+br\org\catolicasc\interfaces\folder\Movel.class
+br\org\catolicasc\interfaces\folder\PontoMovel.class
